@@ -45,18 +45,177 @@ The class is graded on a pass / fail basis, and grades will be based on particip
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Penicillin Discovery and Mode of Action | &nbsp; |
-| 3 | Molecular Basis for Penicillin Resistance | Distribution of Written Assignment |
-| 4 | Vancomycin Discovery and Mode of Action | &nbsp; |
-| 5 | Molecular Basis for Vancomycin Resistance | &nbsp; |
-| 6 | Macrolides: Ribosome-binding Antibiotics and Development of Bacterial Resistance | &nbsp; |
-| 7 | Superbugs: Innate and Acquired Resistance | Written Assignment due |
-| 8 | Field Trip | Field Trip to the [Cambridge Water Treatment Facility at Fresh Pond](https://www.cambridgema.gov/Water/freshpondreservation) |
-| 9 | Prevalence of Antibiotic Resistance in the Environment | Final Selection of Paper to Present for the Oral Assignment |
-| 10 | Mode of Action of Antimicrobial Peptides | &nbsp; |
-| 11 | New Methods for Antibiotic Discovery and Delivery | &nbsp; |
-| 12 | Non-traditional Methods to Treat Bacterial Infection: Fecal Transplants and Viruses | &nbsp; |
-| 13 | Presentations | Oral Assignment due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Penicillin Discovery and Mode of Action
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Basis for Penicillin Resistance
+{{< tdclose >}}
+{{< tdopen >}}
+Distribution of Written Assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Vancomycin Discovery and Mode of Action
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Basis for Vancomycin Resistance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Macrolides: Ribosome-binding Antibiotics and Development of Bacterial Resistance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Superbugs: Innate and Acquired Resistance
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to the [Cambridge Water Treatment Facility at Fresh Pond](https://www.cambridgema.gov/Water/freshpondreservation)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Prevalence of Antibiotic Resistance in the Environment
+{{< tdclose >}}
+{{< tdopen >}}
+Final Selection of Paper to Present for the Oral Assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Mode of Action of Antimicrobial Peptides
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+New Methods for Antibiotic Discovery and Delivery
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Non-traditional Methods to Treat Bacterial Infection: Fecal Transplants and Viruses
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
